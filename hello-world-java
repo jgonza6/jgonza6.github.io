@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
+<button onclick="document.getElementById('demo').innerHTML=Date()">What Time Is It?</button>
 
 <p id="demo"></p>
 
